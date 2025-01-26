@@ -1,0 +1,10 @@
+{
+    "Name": "No Seed Spots",
+    "Author": "Nicoconot",
+    "Version": "1.0.0",
+    "Description": "A simple mod that gives you the option to remove or lower the spawn rate of seed spots in favor of artifact spots.",
+    "UniqueID": "nicoconot.noSeedSpots",
+    "EntryDll": "NO_SEED_SPOTS.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": ["Nexus:30579"]
+  }

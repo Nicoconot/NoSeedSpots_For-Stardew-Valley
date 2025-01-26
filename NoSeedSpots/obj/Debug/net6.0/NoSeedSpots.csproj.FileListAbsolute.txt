@@ -1,0 +1,8 @@
+d:\StuffForSSD\My_Downloads\Stardew Mods\NoSeedSpots\NoSeedSpots\bin\Debug\net6.0\NO_SEED_SPOTS.deps.json
+d:\StuffForSSD\My_Downloads\Stardew Mods\NoSeedSpots\NoSeedSpots\bin\Debug\net6.0\NO_SEED_SPOTS.dll
+d:\StuffForSSD\My_Downloads\Stardew Mods\NoSeedSpots\NoSeedSpots\obj\Debug\net6.0\NoSeedSpots.csproj.AssemblyReference.cache
+d:\StuffForSSD\My_Downloads\Stardew Mods\NoSeedSpots\NoSeedSpots\obj\Debug\net6.0\NoSeedSpots.GeneratedMSBuildEditorConfig.editorconfig
+d:\StuffForSSD\My_Downloads\Stardew Mods\NoSeedSpots\NoSeedSpots\obj\Debug\net6.0\NoSeedSpots.AssemblyInfoInputs.cache
+d:\StuffForSSD\My_Downloads\Stardew Mods\NoSeedSpots\NoSeedSpots\obj\Debug\net6.0\NoSeedSpots.AssemblyInfo.cs
+d:\StuffForSSD\My_Downloads\Stardew Mods\NoSeedSpots\NoSeedSpots\obj\Debug\net6.0\NoSeedSpots.csproj.CoreCompileInputs.cache
+d:\StuffForSSD\My_Downloads\Stardew Mods\NoSeedSpots\NoSeedSpots\obj\Debug\net6.0\NO_SEED_SPOTS.dll
